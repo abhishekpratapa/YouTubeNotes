@@ -1,14 +1,15 @@
 import React from 'react';
 import'./index.module.scss';
 
-class YTNotesbutton extends React.Component {
+class YTNotesButton extends React.Component {
   render() {
     return (
-      <div className={"YTNotesbutton"}>
+      <div className={"YTNotesButton"}
+           onClick={this.props.onClick.bind(this)}>
         {this.props.text}
       </div>
     )
   }
 }
 
-export default YTNotesbutton;
+export default YTNotesButton;
