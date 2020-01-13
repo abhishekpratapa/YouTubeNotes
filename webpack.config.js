@@ -88,8 +88,11 @@ const modalConfig = {
         use: ['babel-loader']
       },
       {
-        test: /\.svg$/,
-        loader: ['svg-inline-loader']
+        test: /\.svg/,
+        use: {
+          loader: 'svg-url-loader',
+          options: {}
+        }
       },
       {
         test: /\.(png|jpe?g|gif)$/i,
