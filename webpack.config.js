@@ -88,10 +88,6 @@ const modalConfig = {
         use: ['babel-loader']
       },
       {
-        test: /\.css$/i,
-        use: ['style-loader', 'css-loader']
-      },
-      {
         test: /\.svg$/,
         loader: ['svg-inline-loader']
       },
@@ -101,6 +97,14 @@ const modalConfig = {
           {
             loader: 'file-loader',
           },
+        ],
+      },
+      {
+        test: /\.s?css$/i,
+        use: [
+          'style-loader',
+          'css-loader',
+          'sass-loader'
         ],
       }
     ]

@@ -1,1 +1,5 @@
-/* TODO: css for Modal window */
+.Modal {
+  width: 380px;
+  height: 520px;
+  background: white;
+}

@@ -6,7 +6,7 @@
   "permissions": [
     "activeTab",
     "declarativeContent",
-    "storage",
+    "storage"
     // Add more things we might need
   ],
   "background": {

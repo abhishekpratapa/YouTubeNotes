@@ -1,0 +1,31 @@
+.YTNotesbutton {
+  border: 3px solid #4A90E2;
+  border-radius: 8px;
+  padding-top:32px;
+  padding-bottom:32px;
+  font-family: VarelaRound-Regular;
+  font-size: 40px;
+  color: #4A90E2;
+  letter-spacing: 3.33px;
+  text-align: center;
+  cursor: pointer;
+  
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+
+.YTNotesbutton:hover {
+  background: #4A90E2;
+  color: white;
+}
+
+.YTNotesbutton:active {
+  border: 3px solid #2E6099;
+  background: #2E6099;
+  color: white;
+}
