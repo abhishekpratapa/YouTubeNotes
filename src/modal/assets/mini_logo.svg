@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="38px" viewBox="0 0 47 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Custom-Phone-Screen" transform="translate(-167.000000, -16.000000)" stroke-width="3">
+            <g id="Group-3" transform="translate(169.000000, 18.000000)">
+                <g id="Group">
+                    <path d="M26.7680723,1.0658141e-14 C24.4133745,0.588721781 24.1463444,4.06735921 26.7680723,4.06735921 C34.6943199,4.06735921 39.1421035,5.10378842 40.1780219,5.77654743 C42.0543658,6.99510593 42.9925377,11.3635573 42.9925377,18.8819014 C43.0942561,26.0947183 42.1560842,30.3909136 40.1780219,31.7704874 C38.1880322,33.1583798 31.9666011,33.852326 21.5137286,33.852326 C10.9135906,33.852326 4.64989226,33.1583798 2.72263357,31.7704874 C0.795374877,30.382595 -0.108703692,26.0815376 0.0103978613,18.8673152 C0.0103978613,11.314595 0.91447643,6.95100572 2.72263357,5.77654743 C4.49882739,4.62285037 9.73099749,3.98489798 18.4191439,3.86269023" id="Path" stroke="#D0021B" stroke-linecap="round"></path>
+                    <polygon id="Triangle" stroke="#979797" points="18 12.852326 28 19.3925932 18 25.852326"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

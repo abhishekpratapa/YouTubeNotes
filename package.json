@@ -22,7 +22,8 @@
     "react-dom": "^16.9.0",
     "sass": "^1.24.4",
     "svg-inline-loader": "^0.8.0",
-    "svg-inline-react": "^3.2.0"
+    "svg-inline-react": "^3.2.0",
+    "svg-url-loader": "^3.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
